@@ -2,5 +2,5 @@ body{
     background-color: red;
     font-size: 2rem;
     position: relative;
-
+    height: 100vh;
 }
