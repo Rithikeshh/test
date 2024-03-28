@@ -1,7 +1,6 @@
 body{
     background-color: red;
     font-size: 2rem;
-    margin: 20px;
-    padding: 30px;
+    position: relative;
 
 }
